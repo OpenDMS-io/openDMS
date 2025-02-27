@@ -1,4 +1,4 @@
-# OpenDMS
+# OpenDMS 24.3
 We are a dedicated team of software engineers who share a deep appreciation for Open Dental. Our goal is to keep it truly open and accessible to everyone.
 
 To ensure its continued availability and evolution, we’ve decided to fork the open-source version 24.3 and take an active role in managing the community.
