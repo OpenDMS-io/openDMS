@@ -10,5 +10,4 @@ We’re calling it OpenDMS.io—a name that reflects both our commitment to open
 Our roadmap will be community-driven, with features prioritized based on real-world needs. Stay tuned for updates as we build a future where great dental software remains free, flexible, and powerful for all.
 
 ## Build
-The Open Dental solution does not build out of the box.\
-We do not accept outside code contributions. See [Programming Assistance](https://www.opendental.com/site/programmingassistance.html)
+The Open Dental solution does not build out of the box.
