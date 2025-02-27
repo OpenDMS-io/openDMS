@@ -1,19 +1,14 @@
-# Open Dental
-**REQUIREMENT:** You must first install the [Trial Version](https://www.opendental.com/trial.html) so you can see the files involved in the installation process. This is the *ONLY* way to get the initial database tables installed. Then you can later attempt to compile the source code files.
+# OpenDMS
+We are a dedicated team of software engineers who share a deep appreciation for Open Dental. Our goal is to keep it truly open and accessible to everyone.
 
-* See [Programming Resources](https://www.opendental.com/site/programmingresources.html) for database documentation.
-* See [Previous Versions](https://opendentalsoft.com:1943/ODBugTracker/PreviousVersions.aspx) for changes have been made since the last version. 
-* See [Subversion (SVN)](https://opendentalsoft.com:23793/svn/opendental) for old source code versions before 2022.
-    * username: **guest**
-    * password: **od123**
-* See [Downloads](https://www.opendental.com/manual/downloads.html) for very old source code versions before 2007.
+To ensure its continued availability and evolution, we’ve decided to fork the open-source version 24.3 and take an active role in managing the community.
 
-## Getting Started
-Each branch contains all of the corresponding releases for said Major and Minor version and each commit the branches will contain the code for each Major, Minor, and Build version.
+We welcome developers, dental professionals, and enthusiasts to contribute and help shape the future of this project.
 
-For example, if you want to use the most recent code for Open Dental v21.4 you would simply checkout branch `21_4` and the most recent build of v21.4 would be used. Checkout a specific commit within the corresponding branch when a specific build is desired. Each commit will have a commit message like **version 21.4.14.0** so checkout that commit when v21.4.14 is the desired Major, Minor, and Build.
+We’re calling it OpenDMS.io—a name that reflects both our commitment to openness and our focus on Dental Management Systems.
+
+Our roadmap will be community-driven, with features prioritized based on real-world needs. Stay tuned for updates as we build a future where great dental software remains free, flexible, and powerful for all.
 
 ## Build
 The Open Dental solution does not build out of the box.\
-See [Source Code](https://www.opendental.com/site/sourcecode.html) for getting Open Dental to build.  
 We do not accept outside code contributions. See [Programming Assistance](https://www.opendental.com/site/programmingassistance.html)
